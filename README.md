@@ -8,7 +8,9 @@
 - []()
 
 ### R language
+- [Tourist Accommodation Reviews](https://github.com/Maxyee/julhas-data-science-projects/tree/master/R-Project/shiny-dashboard)
 
 ### PowerBI reports
 
 ### Excel Reports
+I don't like to work with excel that much
