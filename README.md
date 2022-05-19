@@ -7,6 +7,7 @@
 ### DataBricks
 - [Clinical Trial](https://github.com/Maxyee/julhas-data-science-projects/tree/master/Databricks/Projects/Clinical_Trial)
 
+
 ### R language
 - [Tourist Accommodation Reviews](https://github.com/Maxyee/julhas-data-science-projects/tree/master/R-Project/shiny-dashboard)
 
@@ -17,4 +18,6 @@
 ### PowerBI reports
 
 ### Excel Reports
-I don't like to work with excel that much
+
+### DataBricks Concepts
+- [Map Reduce](https://github.com/Maxyee/julhas-data-science-projects/blob/master/Databricks/Basics/map-reduce.ipynb)
