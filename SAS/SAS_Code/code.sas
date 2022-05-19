@@ -318,3 +318,17 @@ run;
 quit;
 
 
+/*comparative analysis*/
+data all_data;
+    set co2_data.sheet1;
+run;
+
+ods graphics;
+proc glm data=all_data plots=diagnostics;
+    class country_name;
+    model total_value=country_name;
+    means country_name / hovtest=levene;
+    format country_name $country_name.;
+    title "One-Way ANOVA with Country Name as Predictor";
+run;
+quit;
