@@ -16,11 +16,11 @@
 - [C02-statistical-analysis](https://github.com/Maxyee/julhas-data-science-projects/tree/master/SAS)
 
 ### PowerBI reports
-- [Young Lives Data Analysis (Hours of Study and Hours of Sleep)](https://github.com/Maxyee/julhas-data-science-projects/blob/master/PowerBI/YoungLives_Sleep_Study/final.png)
-- [Young Lives Data Analysis (Child Addiction)](https://github.com/Maxyee/julhas-data-science-projects/blob/master/PowerBI/Child_Addiction/10.png)
-- [Young Lives Data Analysis (Child Health Status)](https://github.com/Maxyee/julhas-data-science-projects/blob/master/PowerBI/Child_Health_Status/final_report.png)
-- [Young Lives Data Analysis (Child Mom and Dad Age)](https://github.com/Maxyee/julhas-data-science-projects/blob/master/PowerBI/child_momage_dadage/final.png)
-- [Young Lives Data Analysis (Wealth Index)]()
+- [Young Lives Data Analysis (Hours of Study and Hours of Sleep)](https://github.com/Maxyee/julhas-data-science-projects/blob/master/PowerBI/YoungLives_Sleep_Study)
+- [Young Lives Data Analysis (Child Addiction)](https://github.com/Maxyee/julhas-data-science-projects/blob/master/PowerBI/Child_Addiction)
+- [Young Lives Data Analysis (Child Health Status)](https://github.com/Maxyee/julhas-data-science-projects/blob/master/PowerBI/Child_Health_Status)
+- [Young Lives Data Analysis (Child Mom and Dad Age)](https://github.com/Maxyee/julhas-data-science-projects/blob/master/PowerBI/child_momage_dadage)
+- [Young Lives Data Analysis (Wealth Index)](https://github.com/Maxyee/julhas-data-science-projects/tree/master/PowerBI/wealth_index)
 
 
 ### Excel Reports
