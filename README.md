@@ -7,7 +7,7 @@
 ### DataBricks and Pyspark
 - [Clinical Trial](https://github.com/Maxyee/julhas-data-science-projects/tree/master/Databricks/Projects/Clinical_Trial)
 
-### DataBricks Concepts
+### DataBricks Pyspark Concepts
 - [Map Reduce](https://github.com/Maxyee/julhas-data-science-projects/blob/master/Databricks/Basics/map-reduce.ipynb)
 
 ### AWS
@@ -21,7 +21,10 @@
 - [C02-statistical-analysis](https://github.com/Maxyee/julhas-data-science-projects/tree/master/SAS)
 
 ### QGIS
-- []()
+- [Anti Social Crime Greater Manchester Salford 2017](https://github.com/Maxyee/julhas-data-science-projects/tree/master/QGIS/anti-social-crime-2017)
+- [Anti Social Crime Greater Manchester Salford 2018](https://github.com/Maxyee/julhas-data-science-projects/tree/master/QGIS/anti-social-crime-2018)
+- [Vehicle Crime Greater Manchester 2017](https://github.com/Maxyee/julhas-data-science-projects/tree/master/QGIS/vehicle_crime_2017)
+- [Vehicle Crime Greater Manchester 2018](https://github.com/Maxyee/julhas-data-science-projects/tree/master/QGIS/vehicle_crime_2018)
 
 ### PowerBI reports
 - [Young Lives Data Analysis (Hours of Study and Hours of Sleep)](https://github.com/Maxyee/julhas-data-science-projects/blob/master/PowerBI/YoungLives_Sleep_Study)
