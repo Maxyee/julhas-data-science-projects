@@ -19,5 +19,10 @@
 
 ### Excel Reports
 
+- [Inequality On Vietnam Educational Sector (English and Math Lesson)](https://github.com/Maxyee/julhas-data-science-projects/tree/master/Excel%20Dashboard/Inequality%20on%20english%20and%20math%20lesson)
+- [Inequality On Vietnam Educational Sector (Life Outside School)](https://github.com/Maxyee/julhas-data-science-projects/tree/master/Excel%20Dashboard/Inequality%20on%20life%20outside%20school)
+- [Inequality On Vietnam Educational Sector (Roster Home and Family)](https://github.com/Maxyee/julhas-data-science-projects/tree/master/Excel%20Dashboard/Inequality%20on%20roster%20home%20and%20family)
+
+
 ### DataBricks Concepts
 - [Map Reduce](https://github.com/Maxyee/julhas-data-science-projects/blob/master/Databricks/Basics/map-reduce.ipynb)
