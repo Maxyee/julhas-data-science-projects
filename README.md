@@ -5,7 +5,9 @@
 - [C02-emission-analysis](https://github.com/Maxyee/julhas-data-science-projects/blob/master/JupyterLocal/C02-emission-analysis/Data_cleaning_pods.ipynb)
 
 ### DataBricks and Pyspark
-- [Clinical Trial](https://github.com/Maxyee/julhas-data-science-projects/tree/master/Databricks/Projects/Clinical_Trial)
+- [Clinical Trial (DataFrame)](https://github.com/Maxyee/julhas-data-science-projects/tree/master/Databricks/Projects/Clinical_Trial/Dataframe)
+- [Clinical Trial (RDD)](https://github.com/Maxyee/julhas-data-science-projects/tree/master/Databricks/Projects/Clinical_Trial/RDD)
+- [Clinical Trial (Hive)](https://github.com/Maxyee/julhas-data-science-projects/tree/master/Databricks/Projects/Clinical_Trial/Hive)
 
 ### DataBricks Pyspark Concepts
 - [Map Reduce](https://github.com/Maxyee/julhas-data-science-projects/blob/master/Databricks/Basics/map-reduce.ipynb)
