@@ -1,4 +1,4 @@
-# How to geenrate data from 'gz' or 'zip' file in to the DBFS (Databrciks)
+# How to generate data from 'gz' or 'zip' file in to the DBFS (Databrciks)
 ![alt text](https://github.com/Maxyee/julhas-data-science-projects/blob/master/Databricks/Projects/Clinical_Trial/Data%20Loading/screenshots/1.png)
 ![alt text](https://github.com/Maxyee/julhas-data-science-projects/blob/master/Databricks/Projects/Clinical_Trial/Data%20Loading/screenshots/2.png)
 ![alt text](https://github.com/Maxyee/julhas-data-science-projects/blob/master/Databricks/Projects/Clinical_Trial/Data%20Loading/screenshots/3.png)
