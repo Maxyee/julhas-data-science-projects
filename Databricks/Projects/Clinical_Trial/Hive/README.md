@@ -1,0 +1,5 @@
+![alt text](https://github.com/Maxyee/julhas-data-science-projects/blob/master/Databricks/Projects/Clinical_Trial/Hive/screenshots/1.png)
+![alt text](https://github.com/Maxyee/julhas-data-science-projects/blob/master/Databricks/Projects/Clinical_Trial/Hive/screenshots/2.png)
+![alt text](https://github.com/Maxyee/julhas-data-science-projects/blob/master/Databricks/Projects/Clinical_Trial/Hive/screenshots/3.png)
+![alt text](https://github.com/Maxyee/julhas-data-science-projects/blob/master/Databricks/Projects/Clinical_Trial/Hive/screenshots/4.png)
+![alt text](https://github.com/Maxyee/julhas-data-science-projects/blob/master/Databricks/Projects/Clinical_Trial/Hive/screenshots/5.png)
