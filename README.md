@@ -13,7 +13,7 @@
 - [Map Reduce](https://github.com/Maxyee/julhas-data-science-projects/blob/master/Databricks/Basics/map-reduce.ipynb)
 
 ### AWS
-- [S3 Bucket & Amazon Athena]()
+- [S3 Bucket & Amazon Athena](https://github.com/Maxyee/julhas-data-science-projects/tree/master/AWS)
 
 ### R language
 - [Tourist Accommodation Reviews](https://github.com/Maxyee/julhas-data-science-projects/tree/master/R-Project/shiny-dashboard)
