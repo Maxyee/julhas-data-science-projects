@@ -70,3 +70,6 @@
 ![alt text](https://github.com/Maxyee/julhas-data-science-projects/blob/master/AWS/screenshots/70.png)
 ![alt text](https://github.com/Maxyee/julhas-data-science-projects/blob/master/AWS/screenshots/71.png)
 ![alt text](https://github.com/Maxyee/julhas-data-science-projects/blob/master/AWS/screenshots/72.png)
+![alt text](https://github.com/Maxyee/julhas-data-science-projects/blob/master/AWS/screenshots/73.png)
+![alt text](https://github.com/Maxyee/julhas-data-science-projects/blob/master/AWS/screenshots/74.png)
+![alt text](https://github.com/Maxyee/julhas-data-science-projects/blob/master/AWS/screenshots/75.png)
