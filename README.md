@@ -18,6 +18,7 @@
 ### R language
 - [Tourist Accommodation Reviews](https://github.com/Maxyee/julhas-data-science-projects/tree/master/R-Project/shiny-dashboard)
 - [Mobile Data (KNN)](https://github.com/Maxyee/julhas-data-science-projects/tree/master/R-Project/K-nearest-neighbour)
+- [Association Rule Mining](https://github.com/Maxyee/julhas-data-science-projects/tree/master/R-Project/association-rule-mining)
 
 ### SAS
 - [C02-statistical-analysis](https://github.com/Maxyee/julhas-data-science-projects/tree/master/SAS)
