@@ -9,9 +9,6 @@
 - [Clinical Trial (RDD)](https://github.com/Maxyee/julhas-data-science-projects/tree/master/Databricks/Projects/Clinical_Trial/RDD)
 - [Clinical Trial (Hive)](https://github.com/Maxyee/julhas-data-science-projects/tree/master/Databricks/Projects/Clinical_Trial/Hive)
 
-### DataBricks Pyspark Concepts
-- [Map Reduce](https://github.com/Maxyee/julhas-data-science-projects/blob/master/Databricks/Basics/map-reduce.ipynb)
-
 ### AWS
 - [S3 Bucket & Amazon Athena](https://github.com/Maxyee/julhas-data-science-projects/tree/master/AWS)
 
@@ -42,6 +39,9 @@
 - [Inequality On Vietnam Educational Sector (Life Outside School)](https://github.com/Maxyee/julhas-data-science-projects/tree/master/Excel%20Dashboard/Inequality%20on%20life%20outside%20school)
 - [Inequality On Vietnam Educational Sector (Roster Home and Family)](https://github.com/Maxyee/julhas-data-science-projects/tree/master/Excel%20Dashboard/Inequality%20on%20roster%20home%20and%20family)
 
+### DataBricks Pyspark Concepts
+- [Map Reduce](https://github.com/Maxyee/julhas-data-science-projects/blob/master/Databricks/Basics/map-reduce)
+- [character Counter](https://github.com/Maxyee/julhas-data-science-projects/tree/master/Databricks/Basics/character-counting)
 
 ## Contributors
 
