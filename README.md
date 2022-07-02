@@ -40,9 +40,12 @@
 - [Inequality On Vietnam Educational Sector (Roster Home and Family)](https://github.com/Maxyee/julhas-data-science-projects/tree/master/Excel%20Dashboard/Inequality%20on%20roster%20home%20and%20family)
 
 ### DataBricks Pyspark Concepts
-- [Map Reduce](https://github.com/Maxyee/julhas-data-science-projects/blob/master/Databricks/Basics/map-reduce)
-- [character Counter](https://github.com/Maxyee/julhas-data-science-projects/tree/master/Databricks/Basics/character-counting)
-
+- [Map Reduce](https://github.com/Maxyee/julhas-data-science-projects/blob/master/Databricks/Basics/map-reduce/map-reduce.ipynb)
+- [character Counter](https://github.com/Maxyee/julhas-data-science-projects/blob/master/Databricks/Basics/character-counting/character_counting.ipynb)
+- [Parallel-process](https://github.com/Maxyee/julhas-data-science-projects/tree/master/Databricks/Basics/parallel-process)
+- [Python-bokeh-visualization](https://github.com/Maxyee/julhas-data-science-projects/blob/master/Databricks/Basics/python-bokeh-visualization/python-visualiztion.ipynb)
+- [Rdd-Persistance](https://github.com/Maxyee/julhas-data-science-projects/blob/master/Databricks/Basics/rdd-persistance/rdd-persistance.ipynb)
+- [Data-scrubbing-with-rdds](https://github.com/Maxyee/julhas-data-science-projects/blob/master/Databricks/Basics/data-scrubbing-with-rdds/data_scrubbing_using_rdds (1).ipynb)
 ## Contributors
 
 - Md Julhas Hossain
