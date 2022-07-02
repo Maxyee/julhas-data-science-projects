@@ -45,7 +45,7 @@
 - [Parallel-process](https://github.com/Maxyee/julhas-data-science-projects/tree/master/Databricks/Basics/parallel-process)
 - [Python-bokeh-visualization](https://github.com/Maxyee/julhas-data-science-projects/blob/master/Databricks/Basics/python-bokeh-visualization/python-visualiztion.ipynb)
 - [Rdd-Persistance](https://github.com/Maxyee/julhas-data-science-projects/blob/master/Databricks/Basics/rdd-persistance/rdd-persistance.ipynb)
-- [Data-scrubbing-with-rdds](https://github.com/Maxyee/julhas-data-science-projects/blob/master/Databricks/Basics/data-scrubbing-with-rdds/data_scrubbing_using_rdds (1).ipynb)
+- [Data-scrubbing-with-rdds](https://github.com/Maxyee/julhas-data-science-projects/blob/master/Databricks/Basics/data-scrubbing-with-rdds/data_scrubbing_using_rdds.ipynb)
 ## Contributors
 
 - Md Julhas Hossain
