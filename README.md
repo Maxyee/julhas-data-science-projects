@@ -51,6 +51,7 @@
 - [Bash-With-Databricks](https://github.com/Maxyee/julhas-data-science-projects/blob/master/Databricks/Basics/bash-with-databricks/bash-with-databricks.ipynb)
 - [partition-data-with-hive](https://github.com/Maxyee/julhas-data-science-projects/blob/master/Databricks/Basics/partition-data-with-hive)
 - [sentiment-analysis](https://github.com/Maxyee/julhas-data-science-projects/blob/master/Databricks/Text-Mining/sentiment-analysis.ipynb)
+- [spark-dataframe-rdd-sql](https://github.com/Maxyee/julhas-data-science-projects/blob/master/Databricks/Basics/spark-dataframe-rdd-sql/spark-dataframe-rdd-sql.ipynb)
 ## Contributors
 
 - Md Julhas Hossain
