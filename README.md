@@ -49,6 +49,8 @@
 - [Data-streaming](https://github.com/Maxyee/julhas-data-science-projects/blob/master/Databricks/Basics/data-streaming/data-streaming.ipynb)
 - [ETL-Json](https://github.com/Maxyee/julhas-data-science-projects/blob/master/Databricks/Basics/ETL-Json-file/ETL-Json.ipynb)
 - [Bash-With-Databricks](https://github.com/Maxyee/julhas-data-science-projects/blob/master/Databricks/Basics/bash-with-databricks/bash-with-databricks.ipynb)
+- [partition-data-with-hive](https://github.com/Maxyee/julhas-data-science-projects/blob/master/Databricks/Basics/partition-data-with-hive)
+- [sentiment-analysis](https://github.com/Maxyee/julhas-data-science-projects/blob/master/Databricks/Text-Mining/sentiment-analysis.ipynb)
 ## Contributors
 
 - Md Julhas Hossain
