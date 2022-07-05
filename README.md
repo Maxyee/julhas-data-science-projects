@@ -54,6 +54,7 @@
 - [spark-dataframe-rdd-sql](https://github.com/Maxyee/julhas-data-science-projects/blob/master/Databricks/Basics/spark-dataframe-rdd-sql/spark-dataframe-rdd-sql.ipynb)
 - [map-reduce-demo](https://github.com/Maxyee/julhas-data-science-projects/blob/master/Databricks/Basics/map-reduce-demo/map-reduce-demo.ipynb)
 - [bokeh-test](https://github.com/Maxyee/julhas-data-science-projects/blob/master/Databricks/Basics/bokeh-test/bokeh-test.ipynb)
+- [Exploratory-data-analysis](https://github.com/Maxyee/julhas-data-science-projects/blob/master/Databricks/Basics/exploratory-data-analysis/EDA.ipynb)
 ## Contributors
 
 - Md Julhas Hossain
